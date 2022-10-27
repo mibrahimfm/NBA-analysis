@@ -1,4 +1,4 @@
-Player,Pos,Age,Tm,G,MP,FG%,Dist.,% Att 2P,% Att 0-3,% Att 3-10,% Att 10-16,% Att 16-3P,% Att 3P,% Made 2P,% Made 0-3,% Made 3-10,% Made 10-16,% Made 16-3P,% Made 3P,% 2P Asst.,% 3P Asst.,%FGA,Dunks made,%3PA corner,3P% corner,Heaved att.,Heaves made
+Player,Pos,Age,Tm,G,MP,FG%,Dist.,% Att 2P,% Att 0-3ft,% Att 3-10ft,% Att 10-16ft,% Att 16ft-3P,% Att 3P,% Made 2P,% Made 0-3ft,% Made 3-10ft,% Made 10-16ft,% Made 16ft-3P,% Made 3P,% 2P Asst.,% 3P Asst.,%FGA,Dunks made,%3PA corner,3P% corner,Heaved att.,Heaves made
 Precious Achiuwa,PF,21,MIA,61,737,.544,3.3,.996,.667,.263,.039,.026,.004,.546,.645,.367,.333,.167,.000,.734,,.259,48,.000,,0,0
 Jaylen Adams,PG,24,MIL,7,18,.125,11.0,.750,.250,.375,.125,.000,.250,.167,.000,.000,1.000,,.000,.000,,.000,0,.000,,0,0
 Steven Adams,C,27,NOP,58,1605,.614,3.9,.990,.646,.276,.068,.000,.010,.620,.693,.494,.429,,.000,.598,,.182,51,.000,,3,0

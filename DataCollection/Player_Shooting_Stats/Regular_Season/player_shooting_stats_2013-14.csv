@@ -1,4 +1,4 @@
-Player,Pos,Age,Tm,G,MP,FG%,Dist.,% Att 2P,% Att 0-3,% Att 3-10,% Att 10-16,% Att 16-3P,% Att 3P,% Made 2P,% Made 0-3,% Made 3-10,% Made 10-16,% Made 16-3P,% Made 3P,% 2P Asst.,% 3P Asst.,%FGA,Dunks made,%3PA corner,3P% corner,Heaved att.,Heaves made
+Player,Pos,Age,Tm,G,MP,FG%,Dist.,% Att 2P,% Att 0-3ft,% Att 3-10ft,% Att 10-16ft,% Att 16ft-3P,% Att 3P,% Made 2P,% Made 0-3ft,% Made 3-10ft,% Made 10-16ft,% Made 16ft-3P,% Made 3P,% 2P Asst.,% 3P Asst.,%FGA,Dunks made,%3PA corner,3P% corner,Heaved att.,Heaves made
 Quincy Acy,SF,23,TOT,63,847,.468,8.2,.894,.461,.220,.050,.163,.106,.492,.600,.387,.429,.348,.267,.694,1.000,.191,25,.667,.300,0,0
 Quincy Acy,SF,23,TOR,7,61,.429,14.1,.643,.357,.071,.000,.214,.357,.444,.600,1.000,,.000,.400,.750,1.000,.143,2,.400,.500,0,0
 Quincy Acy,SF,23,SAC,56,786,.472,7.5,.921,.472,.236,.055,.157,.079,.496,.600,.367,.429,.400,.200,.690,1.000,.197,23,.800,.250,0,0
