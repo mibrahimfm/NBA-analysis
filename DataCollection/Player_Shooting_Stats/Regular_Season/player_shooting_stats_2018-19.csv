@@ -1,4 +1,4 @@
-Player,Pos,Age,Tm,G,MP,FG%,Dist.,% Att 2P,% Att 0-3,% Att 3-10,% Att 10-16,% Att 16-3P,% Att 3P,% Made 2P,% Made 0-3,% Made 3-10,% Made 10-16,% Made 16-3P,% Made 3P,% 2P Asst.,% 3P Asst.,%FGA,Dunks made,%3PA corner,3P% corner,Heaved att.,Heaves made
+Player,Pos,Age,Tm,G,MP,FG%,Dist.,% Att 2P,% Att 0-3ft,% Att 3-10ft,% Att 10-16ft,% Att 16ft-3P,% Att 3P,% Made 2P,% Made 0-3ft,% Made 3-10ft,% Made 10-16ft,% Made 16ft-3P,% Made 3P,% 2P Asst.,% 3P Asst.,%FGA,Dunks made,%3PA corner,3P% corner,Heaved att.,Heaves made
 Álex Abrines,SG,25,OKC,31,588,.357,22.3,.191,.102,.025,.019,.045,.809,.500,.500,.500,.333,.571,.323,.800,.951,.006,1,.205,.385,2,0
 Quincy Acy,PF,28,PHO,10,123,.222,21.7,.167,.111,.000,.056,.000,.833,.667,1.000,,.000,,.133,1.000,1.000,.000,0,.333,.200,0,0
 Jaylen Adams,PG,22,ATL,34,428,.345,20.2,.327,.118,.082,.073,.055,.673,.361,.538,.111,.250,.500,.338,.231,.840,.000,0,.149,.182,1,0

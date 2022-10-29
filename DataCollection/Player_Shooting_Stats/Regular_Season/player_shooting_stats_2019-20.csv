@@ -1,4 +1,4 @@
-Player,Pos,Age,Tm,G,MP,FG%,Dist.,% Att 2P,% Att 0-3,% Att 3-10,% Att 10-16,% Att 16-3P,% Att 3P,% Made 2P,% Made 0-3,% Made 3-10,% Made 10-16,% Made 16-3P,% Made 3P,% 2P Asst.,% 3P Asst.,%FGA,Dunks made,%3PA corner,3P% corner,Heaved att.,Heaves made
+Player,Pos,Age,Tm,G,MP,FG%,Dist.,% Att 2P,% Att 0-3ft,% Att 3-10ft,% Att 10-16ft,% Att 16ft-3P,% Att 3P,% Made 2P,% Made 0-3ft,% Made 3-10ft,% Made 10-16ft,% Made 16ft-3P,% Made 3P,% 2P Asst.,% 3P Asst.,%FGA,Dunks made,%3PA corner,3P% corner,Heaved att.,Heaves made
 Steven Adams,C,26,OKC,63,1680,.592,4.4,.994,.513,.397,.082,.002,.006,.594,.743,.416,.513,1.000,.333,.670,1.000,.176,78,.333,.000,1,1
 Bam Adebayo,PF,22,MIA,72,2417,.557,5.8,.982,.481,.301,.144,.056,.018,.564,.726,.445,.404,.227,.143,.715,.500,.219,157,.571,.125,1,0
 LaMarcus Aldridge,C,34,SAS,53,1754,.493,13.7,.802,.202,.129,.227,.245,.198,.519,.719,.471,.461,.433,.389,.567,.951,.044,31,.185,.379,1,0
