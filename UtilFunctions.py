@@ -33,13 +33,13 @@ def growth_rate(data):
     return "{:.2f}%".format(growth_rt*100)
 
 def format_season(season):
-        #Formats years in season to use in File Name
-        #Ex: 2021 turns into 2020-21
-        first_year = season-1
-        second_year = str(season)[2:]
-        
-        return first_year, second_year
+    #Formats years in season to use in File Name
+    #Ex: 2021 turns into 2020-21
+    first_year = season-1
+    second_year = str(season)[2:]
     
+    return first_year, second_year
+
 def spearman_rank_corr(rank1, rank2):
     d_square = []
     
